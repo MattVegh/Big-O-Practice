@@ -4,3 +4,6 @@ Time Complexity: number of operations an algorithm requires to complete.
 
 Big O Notation: a way to describe the time complexity of an algorithm. Can help us understand how an algorithm
     will perform in best case scenarios, worst case scenarios, and on average.
+
+Classifications:
+    Constant Time - NO matter the size of your input, the algorithm will take the same amount of time to complete.
