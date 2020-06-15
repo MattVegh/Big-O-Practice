@@ -6,4 +6,7 @@ Big O Notation: a way to describe the time complexity of an algorithm. Can help 
     will perform in best case scenarios, worst case scenarios, and on average.
 
 Classifications:
-    Constant Time - NO matter the size of your input, the algorithm will take the same amount of time to complete.
+    Constant Time (best) - No matter the size of your input, the algorithm will take the same amount of time to complete.
+
+    Logarithmic Time (second best) - Run time increases slowly. If an algorithm takes 1 second to complete with
+        with an input of 10, it will take 2 seconds with 100 inputs, and 3 seconds with 1000. 
