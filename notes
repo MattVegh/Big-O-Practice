@@ -12,3 +12,7 @@ Classifications:
         with an input of 10, it will take 2 seconds with 100 inputs, and 3 seconds with 1000. 
 
     Linear Time - Running times directly proportional to the size of the input. 
+
+    Polynomial Time - Running time that is input size (n) raised to a constant power (k). O(n^k). Easiest way to understand
+        Polynomial time is with nested loops. An algorithm that requires 2 levels of looping would be n^2, 
+        3 levels of looping would be n^3, and so on. 
