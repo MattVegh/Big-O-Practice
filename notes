@@ -16,3 +16,8 @@ Classifications:
     Polynomial Time - Running time that is input size (n) raised to a constant power (k). O(n^k). Easiest way to understand
         Polynomial time is with nested loops. An algorithm that requires 2 levels of looping would be n^2, 
         3 levels of looping would be n^3, and so on. 
+
+    Exponential Time - Running times that grow rapidly with any increase to input size. 
+        2^n
+        Input size of 2 will be 4.
+        Input size of 10 will be 1024
